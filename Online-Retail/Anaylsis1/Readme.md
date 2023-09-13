@@ -37,12 +37,12 @@ Results Elaboration|[**Jump**](#-Results-Elaboration- "Results Elaboration")
 
 `KMeans Core Features Plot`
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Question2/pics/Kmeans%20Core%20Feature%20Plot.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Online-Retail/pics/Kmeans%20Core%20Feature%20Plot.png)
 
 
 `KMeans Location Plot`
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Question2/pics/Cluster_Result_with_Location_Percentage.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Online-Retail/pics/Cluster_Result_with_Location_Percentage.png)
 
 [Back to ToC](#table-of-content- "Jump to the top")
 
@@ -107,7 +107,7 @@ Cluster Conclusion: 7 clusters were created.
 
 `Percentage in each cluster`
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Question2/pics/MinMaxScale_SamplePercentage.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Online-Retail/pics/MinMaxScale_Kmeans_Validation.png)
 
 1. We can observe from the boxplots that in Cluster 1, customers have fewer days since their last transaction compared to other clusters. Corresponding to the Total Transaction Count, we can understand that Cluster 1 consists of customers with relatively higher loyalty.
 
@@ -125,7 +125,7 @@ Cluster Conclusion: 7 clusters were created.
 
 
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/Question2/pics/Kmeans%20Core%20Feature%20Plot.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Online-Retail/pics/MinMaxScale_SamplePercentage.png)
 
 [Back to ToC](#table-of-content- "Jump to the top")
 
