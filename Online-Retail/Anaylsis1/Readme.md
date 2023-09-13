@@ -1,13 +1,12 @@
 <h2> Objective Question: Based on the data, which customers have similar preferences in their purchases? Why? </h2>
-<h2> 請根據資料回答，哪些顧客有相似的消費行為，為什麼? </h2>
 
 ##### Table of Content :
 
 Title | Content
 ------|---------
 Clustering Result Summary|[**Jump**](#-clustering-result-summary- "Clustering Result Summary")
-Analysis Process Description|[**Jump**](#-Analysis Process Description- "Analysis Process Description")
-Results Elaboration|[**Jump**](#-Results Elaboration- "Results Elaboration")
+Analysis Process Description|[**Jump**](#-Analysis-Process-Description- "Analysis Process Description")
+Results Elaboration|[**Jump**](#-Results-Elaboration- "Results Elaboration")
 
 ### **=== Clustering Result Summary ===**
 
@@ -38,12 +37,12 @@ Results Elaboration|[**Jump**](#-Results Elaboration- "Results Elaboration")
 
 `KMeans Core Features Plot`
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/Question2/pics/Kmeans%20Core%20Feature%20Plot.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Question2/pics/Kmeans%20Core%20Feature%20Plot.png)
 
 
 `KMeans Location Plot`
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/Question2/pics/Cluster_Result_with_Location_Percentage.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Question2/pics/Cluster_Result_with_Location_Percentage.png)
 
 [Back to ToC](#table-of-content- "Jump to the top")
 
@@ -90,7 +89,7 @@ Results Elaboration|[**Jump**](#-Results Elaboration- "Results Elaboration")
 
 `Clustering Performance`
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/Question2/pics/MinMaxScale_Kmeans_Validation.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Question2/pics/MinMaxScale_Kmeans_Validation.png)
 
 [Back to ToC](#table-of-content- "Jump to the top")
 
@@ -108,7 +107,7 @@ Cluster Conclusion: 7 clusters were created.
 
 `Percentage in each cluster`
 
-![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/pics/main/Question2/pics/MinMaxScale_SamplePercentage.png)
+![](https://github.com/ChenTaHung/Online-Retail-Data-Analysis/blob/main/Question2/pics/MinMaxScale_SamplePercentage.png)
 
 1. We can observe from the boxplots that in Cluster 1, customers have fewer days since their last transaction compared to other clusters. Corresponding to the Total Transaction Count, we can understand that Cluster 1 consists of customers with relatively higher loyalty.
 
